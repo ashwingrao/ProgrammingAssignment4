@@ -1,0 +1,57 @@
+# Automatically generated
+# duptype id depth size device inode priority name
+DUPTYPE_FIRST_OCCURRENCE 553 2 170 16777218 157229152 1 ./Documents/Neat Library.nrmlib/__MACOSX/._261791DC-CB05-4A5B-BDC2-30C26275D26B.pdf
+DUPTYPE_WITHIN_SAME_TREE -553 2 170 16777218 157229154 1 ./Documents/Neat Library.nrmlib/__MACOSX/._5D19DF19-A7FE-416C-BF09-3CB9B4B4A181.pdf
+DUPTYPE_WITHIN_SAME_TREE -553 2 170 16777218 157229157 1 ./Documents/Neat Library.nrmlib/__MACOSX/._656337D3-B0FD-4C36-94C2-2A1D19E0A1F5.pdf
+DUPTYPE_WITHIN_SAME_TREE -553 2 170 16777218 157229159 1 ./Documents/Neat Library.nrmlib/__MACOSX/._8ED9CA8E-8B58-4F3C-9D94-5BE7B19AB187.pdf
+DUPTYPE_WITHIN_SAME_TREE -553 2 170 16777218 157229164 1 ./Documents/Neat Library.nrmlib/__MACOSX/._LibraryVersion.plist
+DUPTYPE_WITHIN_SAME_TREE -553 2 170 16777218 157229166 1 ./Documents/Neat Library.nrmlib/__MACOSX/._NRMData.nrms
+DUPTYPE_FIRST_OCCURRENCE 392 5 404 16777218 55395466 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Convert the format of specified Excel files\scg.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395471 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Create a sheet with a directory listing\scl.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395476 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Import text file and create a table\scm.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395481 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Save the current file in Excel 97-2004 format\scs.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395486 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395491 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send an HTML version in an Outlook message\scq.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395496 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send selected content to PowerPoint\scp.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395501 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send selected content to Word\scf.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395543 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Convert message text to audio and send to an iPod\sc-.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395548 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Create a .zip archive for specified messages\scl.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395553 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Edit selected contacts\scn.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395558 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Edit specified contacts\sco.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395563 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Flag selected messages for follow-up\scs.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395568 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Print selected messages\scq.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395573 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Send image attachments to iPhoto\sct.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395578 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Send images on the current Safari Web page in a message\scw.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395583 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Send specified images in a message\scg.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395588 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Send the current Safari Web page URL in a message\scu.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395593 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Sample Automator Workflows/Send the system profile in a message\scp.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395600 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Combine presentations\csp.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395605 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Convert the format of specified PowerPoint files\csg.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395610 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Create and run a presentation using images from iPhoto\csl.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395615 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Save the current file in PowerPoint 98-2004 format\cso.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395620 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395625 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Send images from a presentation to iPhoto\csm.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395632 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Add password protection and a watermark\sc=.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395637 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Convert text to audio and send to an iPod\sc-.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395642 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Convert the format of specified Word files\scg.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395647 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Save as a PDF file while preserving page orientation\scu.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395652 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Save the current file in Word 97-2004 format\sco.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395657 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395662 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Send an HTML version in an Outlook message\scq.workflow/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -392 5 404 16777218 55395667 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Send selected text in an Outlook message\scs.workflow/Contents/version.plist
+DUPTYPE_FIRST_OCCURRENCE 448 4 409 16777218 55395509 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Create Note from Message.scptd/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -448 4 409 16777218 55395516 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Create Task from Message.scptd/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -448 4 409 16777218 55395523 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/File Message by Category.scptd/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -448 4 409 16777218 55395530 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/File Message by Sender.scptd/Contents/version.plist
+DUPTYPE_WITHIN_SAME_TREE -448 4 409 16777218 55395537 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Reveal Database in Finder.scptd/Contents/version.plist
+DUPTYPE_FIRST_OCCURRENCE 446 4 471 16777218 55395505 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Create Note from Message.scptd/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -446 4 471 16777218 55395512 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Create Task from Message.scptd/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -446 4 471 16777218 55395519 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/File Message by Category.scptd/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -446 4 471 16777218 55395526 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/File Message by Sender.scptd/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -446 4 471 16777218 55395533 1 ./Documents/Microsoft User Data/Outlook Script Menu Items/Reveal Database in Finder.scptd/Contents/Info.plist
+DUPTYPE_FIRST_OCCURRENCE 403 5 1008 16777218 55395485 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -403 5 1008 16777218 55395619 1 ./Documents/Microsoft User Data/PowerPoint Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -403 5 1008 16777218 55395656 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Send a PDF version in an Outlook message\scw.workflow/Contents/Info.plist
+DUPTYPE_FIRST_OCCURRENCE 406 5 1014 16777218 55395490 1 ./Documents/Microsoft User Data/Excel Script Menu Items/Sample Automator Workflows/Send an HTML version in an Outlook message\scq.workflow/Contents/Info.plist
+DUPTYPE_WITHIN_SAME_TREE -406 5 1014 16777218 55395661 1 ./Documents/Microsoft User Data/Word Script Menu Items/Sample Automator Workflows/Send an HTML version in an Outlook message\scq.workflow/Contents/Info.plist
+# end of file
